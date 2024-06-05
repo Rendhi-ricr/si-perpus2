@@ -1,0 +1,73 @@
+CRITICAL - 2024-04-03 13:15:08 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\pages\backend\anggota\edit.php on line 7.
+ 1 APPPATH\Views\pages\backend\anggota\edit.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\anggota\\edit.php', 7, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\anggota\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/anggota/edit', [], true)
+ 5 APPPATH\Controllers\admin\anggota.php(94): view('pages/backend/anggota/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\anggota->edit('img', 'undraw_profile.svg')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\anggota))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-03 13:16:11 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\pages\backend\buku\edit.php on line 7.
+ 1 APPPATH\Views\pages\backend\buku\edit.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\buku\\edit.php', 7, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\buku\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/buku/edit', [], true)
+ 5 APPPATH\Controllers\admin\Buku.php(101): view('pages/backend/buku/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\Buku->edit('img', 'undraw_profile.svg')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Buku))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-03 13:16:58 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\pages\backend\kategori\edit.php on line 7.
+ 1 APPPATH\Views\pages\backend\kategori\edit.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\kategori\\edit.php', 7, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\kategori\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/kategori/edit', [], true)
+ 5 APPPATH\Controllers\admin\kategori.php(47): view('pages/backend/kategori/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\kategori->edit('img', 'undraw_profile.svg')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\kategori))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-03 13:17:39 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\pages\backend\rak\edit.php on line 7.
+ 1 APPPATH\Views\pages\backend\rak\edit.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\rak\\edit.php', 7, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\rak\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/rak/edit', [], true)
+ 5 APPPATH\Controllers\admin\rak.php(47): view('pages/backend/rak/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\rak->edit('img', 'undraw_profile.svg')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\rak))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-03 13:18:08 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\pages\backend\denda\edit.php on line 7.
+ 1 APPPATH\Views\pages\backend\denda\edit.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\denda\\edit.php', 7, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\denda\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/denda/edit', [], true)
+ 5 APPPATH\Controllers\admin\denda.php(47): view('pages/backend/denda/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\denda->edit('img', 'undraw_profile.svg')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\denda))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-03 13:18:45 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\pages\backend\petugas\edit.php on line 7.
+ 1 APPPATH\Views\pages\backend\petugas\edit.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\petugas\\edit.php', 7, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\petugas\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/petugas/edit', [], true)
+ 5 APPPATH\Controllers\admin\petugas.php(93): view('pages/backend/petugas/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\petugas->edit('img', 'undraw_profile.svg')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\petugas))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-03 13:19:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-03 13:19:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-03 13:19:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-03 13:19:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-03 13:19:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-03 13:19:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-03 13:19:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

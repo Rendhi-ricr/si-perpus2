@@ -1,0 +1,1435 @@
+INFO - 2024-06-05 05:49:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 05:49:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 05:49:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 05:49:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 05:49:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 05:49:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 05:49:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 05:49:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 05:49:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 05:49:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 05:49:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 05:49:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 05:49:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 05:49:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 05:49:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 05:49:17 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/backend/histori_transaksi/detail.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/backend/histori_transaksi/detail.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/histori_transaksi/detail', [], true)
+ 3 APPPATH\Controllers\admin\historiTransaksi.php(37): view('pages/backend/histori_transaksi/detail', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->detail('12')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 05:49:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 05:49:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 05:54:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 05:54:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 05:54:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 05:54:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 05:54:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 05:54:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 05:54:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 05:54:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 05:54:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 05:54:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:41:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:41:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:41:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:41:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:41:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:41:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:41:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:41:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:41:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:41:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:41:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:41:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:41:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:41:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:41:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:41:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 06:41:38 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/backend/histori_transaksi/detail.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/backend/histori_transaksi/detail.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/histori_transaksi/detail', [], true)
+ 3 APPPATH\Controllers\admin\historiTransaksi.php(37): view('pages/backend/histori_transaksi/detail', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->detail('17')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 06:41:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:41:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:44:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:44:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:48:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:48:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:48:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:48:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:48:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:55:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:55:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:55:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:55:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:55:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:55:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:55:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:57:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:57:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:57:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:57:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:57:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:58:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:58:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:58:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:58:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:58:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:58:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 06:58:27 --> ErrorException: Undefined index: nominal
+in APPPATH\Controllers\admin\transaksi.php on line 165.
+ 1 APPPATH\Controllers\admin\transaksi.php(165): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: nominal', 'C:\\xampp\\htdocs\\si-perpus\\app\\Controllers\\admin\\transaksi.php', 165, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\transaksi->selesai('27')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\transaksi))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 06:58:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:58:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:58:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:58:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:58:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:58:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:58:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:58:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:58:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:58:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 06:58:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 06:58:47 --> Error: Unsupported operand types
+in APPPATH\Controllers\admin\transaksi.php on line 165.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\transaksi->selesai('27')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\transaksi))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 06:59:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 06:59:15 --> ErrorException: Undefined index: nominal
+in APPPATH\Controllers\admin\transaksi.php on line 165.
+ 1 APPPATH\Controllers\admin\transaksi.php(165): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: nominal', 'C:\\xampp\\htdocs\\si-perpus\\app\\Controllers\\admin\\transaksi.php', 165, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\transaksi->selesai('27')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\transaksi))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 07:00:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:00:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:00:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:00:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:00:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:01:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:01:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:01:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:01:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:01:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:01:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:01:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:01:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:01:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:02:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:02:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:02:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:02:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:02:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:02:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:02:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:02:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:02:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:02:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:02:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:04:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:04:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:04:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:04:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:04:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:04:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:04:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:04:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:04:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:04:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:04:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:04:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:04:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:07:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:07:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:07:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:07:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:07:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:07:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:07:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:07:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:07:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:07:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:07:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:08:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:08:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:08:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:08:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:08:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:08:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:08:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:08:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:08:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:08:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:08:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 07:08:48 --> ErrorException: Undefined index: nominal
+in APPPATH\Controllers\admin\transaksi.php on line 166.
+ 1 APPPATH\Controllers\admin\transaksi.php(166): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: nominal', 'C:\\xampp\\htdocs\\si-perpus\\app\\Controllers\\admin\\transaksi.php', 166, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\transaksi->selesai('32')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\transaksi))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 07:08:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:08:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:08:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:10:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:10:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:10:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 07:10:46 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/backend/histori_transaksi/detail.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/backend/histori_transaksi/detail.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/histori_transaksi/detail', [], true)
+ 3 APPPATH\Controllers\admin\historiTransaksi.php(37): view('pages/backend/histori_transaksi/detail', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->detail('16')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 07:10:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:10:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:15:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:15:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:15:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 07:15:47 --> ErrorException: Undefined variable: transaksi
+in APPPATH\Views\pages\backend\detail_histori_transaksi.php on line 10.
+ 1 APPPATH\Views\pages\backend\detail_histori_transaksi.php(10): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: transaksi', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php', 10, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/detail_histori_transaksi', [], true)
+ 5 APPPATH\Controllers\admin\historiTransaksi.php(37): view('pages/backend/detail_histori_transaksi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->detail('17')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 07:16:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 07:16:06 --> ErrorException: Trying to get property 'id_histori_transaksi' of non-object
+in APPPATH\Views\pages\backend\detail_histori_transaksi.php on line 19.
+ 1 APPPATH\Views\pages\backend\detail_histori_transaksi.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get property \'id_histori_transaksi\' of non-object', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php', 19, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/detail_histori_transaksi', [], true)
+ 5 APPPATH\Controllers\admin\historiTransaksi.php(37): view('pages/backend/detail_histori_transaksi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->detail('17')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 07:22:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 07:22:36 --> ErrorException: Trying to get property 'id_histori_transaksi' of non-object
+in APPPATH\Views\pages\backend\detail_histori_transaksi.php on line 20.
+ 1 APPPATH\Views\pages\backend\detail_histori_transaksi.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get property \'id_histori_transaksi\' of non-object', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php', 20, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/detail_histori_transaksi', [], true)
+ 5 APPPATH\Controllers\admin\historiTransaksi.php(37): view('pages/backend/detail_histori_transaksi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->detail('17')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 07:22:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 07:22:37 --> ErrorException: Trying to get property 'id_histori_transaksi' of non-object
+in APPPATH\Views\pages\backend\detail_histori_transaksi.php on line 20.
+ 1 APPPATH\Views\pages\backend\detail_histori_transaksi.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get property \'id_histori_transaksi\' of non-object', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php', 20, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/detail_histori_transaksi', [], true)
+ 5 APPPATH\Controllers\admin\historiTransaksi.php(37): view('pages/backend/detail_histori_transaksi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->detail('17')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 07:22:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 07:22:38 --> ErrorException: Trying to get property 'id_histori_transaksi' of non-object
+in APPPATH\Views\pages\backend\detail_histori_transaksi.php on line 20.
+ 1 APPPATH\Views\pages\backend\detail_histori_transaksi.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get property \'id_histori_transaksi\' of non-object', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php', 20, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/detail_histori_transaksi', [], true)
+ 5 APPPATH\Controllers\admin\historiTransaksi.php(37): view('pages/backend/detail_histori_transaksi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->detail('17')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 07:22:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 07:22:54 --> ErrorException: Trying to get property 'tanggal_peminjaman' of non-object
+in APPPATH\Views\pages\backend\detail_histori_transaksi.php on line 21.
+ 1 APPPATH\Views\pages\backend\detail_histori_transaksi.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get property \'tanggal_peminjaman\' of non-object', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php', 21, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/detail_histori_transaksi', [], true)
+ 5 APPPATH\Controllers\admin\historiTransaksi.php(37): view('pages/backend/detail_histori_transaksi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->detail('17')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 07:25:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 07:25:13 --> ErrorException: Trying to get property 'id_histori_transaksi' of non-object
+in APPPATH\Views\pages\backend\detail_histori_transaksi.php on line 18.
+ 1 APPPATH\Views\pages\backend\detail_histori_transaksi.php(18): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get property \'id_histori_transaksi\' of non-object', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php', 18, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/detail_histori_transaksi', [], true)
+ 5 APPPATH\Controllers\admin\historiTransaksi.php(37): view('pages/backend/detail_histori_transaksi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->detail('17')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 07:25:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 07:25:46 --> ErrorException: Trying to get property 'id_histori_transaksi' of non-object
+in APPPATH\Views\pages\backend\detail_histori_transaksi.php on line 19.
+ 1 APPPATH\Views\pages\backend\detail_histori_transaksi.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get property \'id_histori_transaksi\' of non-object', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php', 19, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/detail_histori_transaksi', [], true)
+ 5 APPPATH\Controllers\admin\historiTransaksi.php(37): view('pages/backend/detail_histori_transaksi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->detail('17')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 07:39:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 07:39:15 --> ErrorException: Trying to get property 'id_histori_transaksi' of non-object
+in APPPATH\Views\pages\backend\detail_histori_transaksi.php on line 20.
+ 1 APPPATH\Views\pages\backend\detail_histori_transaksi.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get property \'id_histori_transaksi\' of non-object', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php', 20, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/detail_histori_transaksi', [], true)
+ 5 APPPATH\Controllers\admin\historiTransaksi.php(37): view('pages/backend/detail_histori_transaksi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->detail('17')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 07:39:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:39:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:39:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 07:39:23 --> ErrorException: Trying to get property 'id_histori_transaksi' of non-object
+in APPPATH\Views\pages\backend\detail_histori_transaksi.php on line 20.
+ 1 APPPATH\Views\pages\backend\detail_histori_transaksi.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get property \'id_histori_transaksi\' of non-object', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php', 20, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/detail_histori_transaksi', [], true)
+ 5 APPPATH\Controllers\admin\historiTransaksi.php(37): view('pages/backend/detail_histori_transaksi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->detail('23')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 07:40:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:40:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:40:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:40:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:41:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:41:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:41:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:41:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:41:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:42:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 07:42:00 --> ErrorException: Trying to get property 'id_histori_transaksi' of non-object
+in APPPATH\Views\pages\backend\detail_histori_transaksi.php on line 20.
+ 1 APPPATH\Views\pages\backend\detail_histori_transaksi.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get property \'id_histori_transaksi\' of non-object', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php', 20, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/detail_histori_transaksi', [], true)
+ 5 APPPATH\Controllers\admin\historiTransaksi.php(37): view('pages/backend/detail_histori_transaksi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->detail('21')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 07:43:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-05 07:43:38 --> mysqli_sql_exception: Unknown column 'tbl_buku.juduls' in 'field list' in C:\xampp\htdocs\si-perpus\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\si-perpus\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `tbl_buk...', 0)
+#1 C:\xampp\htdocs\si-perpus\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `tbl_buk...')
+#2 C:\xampp\htdocs\si-perpus\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `tbl_buk...')
+#3 C:\xampp\htdocs\si-perpus\system\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `tbl_buk...', Array, false)
+#4 C:\xampp\htdocs\si-perpus\app\Models\historiDetailTransaksiModels.php(19): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\si-perpus\app\Controllers\admin\historiTransaksi.php(28): App\Models\historiDetailTransaksiModels->getDetailByHistoriTransaksi('21')
+#6 C:\xampp\htdocs\si-perpus\system\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->detail('21')
+#7 C:\xampp\htdocs\si-perpus\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+#8 C:\xampp\htdocs\si-perpus\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\si-perpus\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-06-05 07:43:38 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'tbl_buku.juduls' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `tbl_buku`.`juduls`
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `id_histori_transaksi` = :id_histori_transaksi:', [...], false)
+ 2 APPPATH\Models\historiDetailTransaksiModels.php(19): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\admin\historiTransaksi.php(28): App\Models\historiDetailTransaksiModels->getDetailByHistoriTransaksi('21')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->detail('21')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-05 07:43:38 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'tbl_buku.juduls' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `tbl_buku`.`juduls`
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `id_histori_transaksi` = \'21\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `tbl_buku`.`juduls`
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `id_histori_transaksi` = \'21\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `tbl_buku`.`juduls`
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `id_histori_transaksi` = :id_histori_transaksi:', [...], false)
+ 4 APPPATH\Models\historiDetailTransaksiModels.php(19): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\admin\historiTransaksi.php(28): App\Models\historiDetailTransaksiModels->getDetailByHistoriTransaksi('21')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->detail('21')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-05 07:43:38 --> [Caused by] mysqli_sql_exception: Unknown column 'tbl_buku.juduls' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `tbl_buku`.`juduls`
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `id_histori_transaksi` = \'21\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `tbl_buku`.`juduls`
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `id_histori_transaksi` = \'21\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `tbl_buku`.`juduls`
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `id_histori_transaksi` = \'21\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `tbl_buku`.`juduls`
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `id_histori_transaksi` = :id_histori_transaksi:', [...], false)
+ 5 APPPATH\Models\historiDetailTransaksiModels.php(19): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\admin\historiTransaksi.php(28): App\Models\historiDetailTransaksiModels->getDetailByHistoriTransaksi('21')
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->detail('21')
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 07:43:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 07:43:53 --> ErrorException: Trying to get property 'id_histori_transaksi' of non-object
+in APPPATH\Views\pages\backend\detail_histori_transaksi.php on line 20.
+ 1 APPPATH\Views\pages\backend\detail_histori_transaksi.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get property \'id_histori_transaksi\' of non-object', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php', 20, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/detail_histori_transaksi', [], true)
+ 5 APPPATH\Controllers\admin\historiTransaksi.php(37): view('pages/backend/detail_histori_transaksi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->detail('21')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 07:46:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-05 07:46:03 --> mysqli_sql_exception: Unknown table 'perpustakaan.tbl_histori_transaksi' in C:\xampp\htdocs\si-perpus\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\si-perpus\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `tbl_buk...', 0)
+#1 C:\xampp\htdocs\si-perpus\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `tbl_buk...')
+#2 C:\xampp\htdocs\si-perpus\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `tbl_buk...')
+#3 C:\xampp\htdocs\si-perpus\system\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `tbl_buk...', Array, false)
+#4 C:\xampp\htdocs\si-perpus\app\Models\historiDetailTransaksiModels.php(19): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\si-perpus\app\Controllers\admin\historiTransaksi.php(28): App\Models\historiDetailTransaksiModels->getDetailByHistoriTransaksi('21')
+#6 C:\xampp\htdocs\si-perpus\system\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->detail('21')
+#7 C:\xampp\htdocs\si-perpus\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+#8 C:\xampp\htdocs\si-perpus\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\si-perpus\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-06-05 07:46:03 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown table 'perpustakaan.tbl_histori_transaksi'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `tbl_buku`.`judul`, `tbl_histori_transaksi`.*
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `id_histori_transaksi` = :id_histori_transaksi:', [...], false)
+ 2 APPPATH\Models\historiDetailTransaksiModels.php(19): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\admin\historiTransaksi.php(28): App\Models\historiDetailTransaksiModels->getDetailByHistoriTransaksi('21')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->detail('21')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-05 07:46:03 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown table 'perpustakaan.tbl_histori_transaksi'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `tbl_buku`.`judul`, `tbl_histori_transaksi`.*
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `id_histori_transaksi` = \'21\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `tbl_buku`.`judul`, `tbl_histori_transaksi`.*
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `id_histori_transaksi` = \'21\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `tbl_buku`.`judul`, `tbl_histori_transaksi`.*
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `id_histori_transaksi` = :id_histori_transaksi:', [...], false)
+ 4 APPPATH\Models\historiDetailTransaksiModels.php(19): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\admin\historiTransaksi.php(28): App\Models\historiDetailTransaksiModels->getDetailByHistoriTransaksi('21')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->detail('21')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-05 07:46:03 --> [Caused by] mysqli_sql_exception: Unknown table 'perpustakaan.tbl_histori_transaksi'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `tbl_buku`.`judul`, `tbl_histori_transaksi`.*
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `id_histori_transaksi` = \'21\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `tbl_buku`.`judul`, `tbl_histori_transaksi`.*
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `id_histori_transaksi` = \'21\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `tbl_buku`.`judul`, `tbl_histori_transaksi`.*
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `id_histori_transaksi` = \'21\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `tbl_buku`.`judul`, `tbl_histori_transaksi`.*
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `id_histori_transaksi` = :id_histori_transaksi:', [...], false)
+ 5 APPPATH\Models\historiDetailTransaksiModels.php(19): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\admin\historiTransaksi.php(28): App\Models\historiDetailTransaksiModels->getDetailByHistoriTransaksi('21')
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->detail('21')
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 07:48:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 07:48:32 --> ErrorException: Trying to get property 'id_histori_transaksi' of non-object
+in APPPATH\Views\pages\backend\detail_histori_transaksi.php on line 20.
+ 1 APPPATH\Views\pages\backend\detail_histori_transaksi.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get property \'id_histori_transaksi\' of non-object', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php', 20, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/detail_histori_transaksi', [], true)
+ 5 APPPATH\Controllers\admin\historiTransaksi.php(37): view('pages/backend/detail_histori_transaksi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->detail('21')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 07:50:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:52:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 07:52:50 --> ErrorException: Trying to get property 'id_histori_transaksi' of non-object
+in APPPATH\Views\pages\backend\detail_histori_transaksi.php on line 21.
+ 1 APPPATH\Views\pages\backend\detail_histori_transaksi.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get property \'id_histori_transaksi\' of non-object', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php', 21, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/detail_histori_transaksi', [], true)
+ 5 APPPATH\Controllers\admin\historiTransaksi.php(37): view('pages/backend/detail_histori_transaksi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->detail('21')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 07:53:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 07:53:19 --> ErrorException: Undefined index: id_histori_transaksi
+in APPPATH\Views\pages\backend\detail_histori_transaksi.php on line 21.
+ 1 APPPATH\Views\pages\backend\detail_histori_transaksi.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: id_histori_transaksi', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php', 21, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/detail_histori_transaksi', [], true)
+ 5 APPPATH\Controllers\admin\historiTransaksi.php(37): view('pages/backend/detail_histori_transaksi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->detail('21')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 07:54:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:54:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:54:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 07:54:26 --> ErrorException: Trying to get property 'nama_anggota' of non-object
+in APPPATH\Views\pages\backend\histori_transaksi.php on line 33.
+ 1 APPPATH\Views\pages\backend\histori_transaksi.php(33): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get property \'nama_anggota\' of non-object', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\histori_transaksi.php', 33, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\histori_transaksi.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/histori_transaksi', [], true)
+ 5 APPPATH\Controllers\admin\historiTransaksi.php(22): view('pages/backend/histori_transaksi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 07:55:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:55:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:55:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 07:55:36 --> ErrorException: Trying to get property 'nama_anggota' of non-object
+in APPPATH\Views\pages\backend\histori_transaksi.php on line 33.
+ 1 APPPATH\Views\pages\backend\histori_transaksi.php(33): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get property \'nama_anggota\' of non-object', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\histori_transaksi.php', 33, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\histori_transaksi.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/histori_transaksi', [], true)
+ 5 APPPATH\Controllers\admin\historiTransaksi.php(22): view('pages/backend/histori_transaksi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 07:56:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 07:56:25 --> ErrorException: Invalid argument supplied for foreach()
+in APPPATH\Views\pages\backend\detail_histori_transaksi.php on line 56.
+ 1 APPPATH\Views\pages\backend\detail_histori_transaksi.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argument supplied for foreach()', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php', 56, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/detail_histori_transaksi', [], true)
+ 5 APPPATH\Controllers\admin\historiTransaksi.php(37): view('pages/backend/detail_histori_transaksi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->detail('21')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 07:56:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:56:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:56:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 07:56:32 --> ErrorException: Trying to get property 'nama_anggota' of non-object
+in APPPATH\Views\pages\backend\histori_transaksi.php on line 33.
+ 1 APPPATH\Views\pages\backend\histori_transaksi.php(33): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get property \'nama_anggota\' of non-object', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\histori_transaksi.php', 33, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\histori_transaksi.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/histori_transaksi', [], true)
+ 5 APPPATH\Controllers\admin\historiTransaksi.php(22): view('pages/backend/histori_transaksi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 07:57:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:59:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:59:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:59:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:59:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:59:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:59:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 07:59:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:03:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 08:03:16 --> ErrorException: Trying to get property 'nama_anggota' of non-object
+in APPPATH\Views\pages\backend\histori_transaksi.php on line 33.
+ 1 APPPATH\Views\pages\backend\histori_transaksi.php(33): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get property \'nama_anggota\' of non-object', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\histori_transaksi.php', 33, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\histori_transaksi.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/histori_transaksi', [], true)
+ 5 APPPATH\Controllers\admin\historiTransaksi.php(22): view('pages/backend/histori_transaksi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 08:03:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:03:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:03:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:03:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 08:03:21 --> ErrorException: Trying to get property 'nama_anggota' of non-object
+in APPPATH\Views\pages\backend\histori_transaksi.php on line 33.
+ 1 APPPATH\Views\pages\backend\histori_transaksi.php(33): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get property \'nama_anggota\' of non-object', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\histori_transaksi.php', 33, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\histori_transaksi.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/histori_transaksi', [], true)
+ 5 APPPATH\Controllers\admin\historiTransaksi.php(22): view('pages/backend/histori_transaksi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 08:03:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:03:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:04:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:04:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:04:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:04:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:04:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:04:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:04:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 08:04:24 --> ErrorException: Trying to get property 'id_histori_transaksi' of non-object
+in APPPATH\Views\pages\backend\detail_histori_transaksi.php on line 21.
+ 1 APPPATH\Views\pages\backend\detail_histori_transaksi.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get property \'id_histori_transaksi\' of non-object', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php', 21, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/detail_histori_transaksi', [], true)
+ 5 APPPATH\Controllers\admin\historiTransaksi.php(37): view('pages/backend/detail_histori_transaksi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->detail('22')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 08:04:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:04:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:04:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:04:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:04:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:04:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:04:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:04:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:04:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:05:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 08:05:05 --> ErrorException: Trying to get property 'id_histori_transaksi' of non-object
+in APPPATH\Views\pages\backend\detail_histori_transaksi.php on line 21.
+ 1 APPPATH\Views\pages\backend\detail_histori_transaksi.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get property \'id_histori_transaksi\' of non-object', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php', 21, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/detail_histori_transaksi', [], true)
+ 5 APPPATH\Controllers\admin\historiTransaksi.php(37): view('pages/backend/detail_histori_transaksi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->detail('12')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 08:05:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:05:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:05:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:05:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:05:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:05:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:05:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:06:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:06:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:07:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:07:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:07:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:07:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:27:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-05 08:27:06 --> mysqli_sql_exception: Unknown column 'id_transaksi' in 'where clause' in C:\xampp\htdocs\si-perpus\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\si-perpus\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\si-perpus\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\si-perpus\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\si-perpus\system\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\si-perpus\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\si-perpus\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\si-perpus\app\Models\historiDetailTransaksiModels.php(15): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\si-perpus\app\Controllers\admin\historiTransaksi.php(28): App\Models\historiDetailTransaksiModels->getDetailByHistoriTransaksi('22')
+#8 C:\xampp\htdocs\si-perpus\system\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->detail('22')
+#9 C:\xampp\htdocs\si-perpus\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+#10 C:\xampp\htdocs\si-perpus\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\si-perpus\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-06-05 08:27:06 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_transaksi' in 'where clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_histori_detail_transaksi`
+WHERE `id_transaksi` = :id_transaksi:', [...], false)
+ 2 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\historiDetailTransaksiModels.php(15): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\admin\historiTransaksi.php(28): App\Models\historiDetailTransaksiModels->getDetailByHistoriTransaksi('22')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->detail('22')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-05 08:27:06 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_transaksi' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `tbl_histori_detail_transaksi`
+WHERE `id_transaksi` = \'22\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `tbl_histori_detail_transaksi`
+WHERE `id_transaksi` = \'22\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_histori_detail_transaksi`
+WHERE `id_transaksi` = :id_transaksi:', [...], false)
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Models\historiDetailTransaksiModels.php(15): CodeIgniter\BaseModel->findAll()
+ 7 APPPATH\Controllers\admin\historiTransaksi.php(28): App\Models\historiDetailTransaksiModels->getDetailByHistoriTransaksi('22')
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->detail('22')
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-05 08:27:06 --> [Caused by] mysqli_sql_exception: Unknown column 'id_transaksi' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *
+FROM `tbl_histori_detail_transaksi`
+WHERE `id_transaksi` = \'22\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `tbl_histori_detail_transaksi`
+WHERE `id_transaksi` = \'22\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `tbl_histori_detail_transaksi`
+WHERE `id_transaksi` = \'22\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_histori_detail_transaksi`
+WHERE `id_transaksi` = :id_transaksi:', [...], false)
+ 5 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Models\historiDetailTransaksiModels.php(15): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH\Controllers\admin\historiTransaksi.php(28): App\Models\historiDetailTransaksiModels->getDetailByHistoriTransaksi('22')
+ 9 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->detail('22')
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 08:27:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:27:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:27:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 08:27:55 --> Error: Call to a member function getResult() on array
+in APPPATH\Views\pages\backend\histori_transaksi.php on line 30.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/histori_transaksi', [], true)
+ 4 APPPATH\Controllers\admin\historiTransaksi.php(22): view('pages/backend/histori_transaksi', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 08:27:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:27:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:27:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 08:27:59 --> Error: Call to a member function getResult() on array
+in APPPATH\Views\pages\backend\histori_transaksi.php on line 30.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/histori_transaksi', [], true)
+ 4 APPPATH\Controllers\admin\historiTransaksi.php(22): view('pages/backend/histori_transaksi', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 08:28:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:28:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:28:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 08:28:19 --> Error: Call to a member function getResult() on array
+in APPPATH\Views\pages\backend\histori_transaksi.php on line 30.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/histori_transaksi', [], true)
+ 4 APPPATH\Controllers\admin\historiTransaksi.php(22): view('pages/backend/histori_transaksi', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 08:28:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:28:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:28:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 08:28:24 --> Error: Call to a member function getResult() on array
+in APPPATH\Views\pages\backend\histori_transaksi.php on line 30.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/histori_transaksi', [], true)
+ 4 APPPATH\Controllers\admin\historiTransaksi.php(22): view('pages/backend/histori_transaksi', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\historiTransaksi->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\historiTransaksi))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 08:37:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:37:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:37:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:37:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:37:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:37:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:37:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:37:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:37:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:37:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:40:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:40:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:40:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:41:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:41:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:41:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:41:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:41:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:41:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:41:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:42:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:42:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:42:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:42:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:42:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:42:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:42:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:42:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:42:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:42:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:42:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:42:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:42:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:42:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:42:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:42:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:42:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:42:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:42:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:42:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:44:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:44:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:44:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:45:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:45:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:45:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:47:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:47:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:47:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:48:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:48:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:48:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:48:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:48:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:48:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:48:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:54:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:54:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:54:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:54:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:54:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:54:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:54:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:54:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:54:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:54:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:54:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:54:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:54:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:54:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:54:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:54:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:54:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:54:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:54:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:54:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:54:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:55:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:55:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:55:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 08:55:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 08:55:10 --> ErrorException: Undefined property: stdClass::$denda
+in APPPATH\Views\pages\backend\transaksi\detail.php on line 25.
+ 1 APPPATH\Views\pages\backend\transaksi\detail.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$denda', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\transaksi\\detail.php', 25, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\transaksi\\detail.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/transaksi/detail', [], true)
+ 5 APPPATH\Controllers\admin\transaksi.php(55): view('pages/backend/transaksi/detail', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\transaksi->detail('26')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 09:05:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:05:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:05:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:05:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 09:05:31 --> ErrorException: Undefined variable: detailTransaksi
+in APPPATH\Controllers\admin\transaksi.php on line 182.
+ 1 APPPATH\Controllers\admin\transaksi.php(182): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: detailTransaksi', 'C:\\xampp\\htdocs\\si-perpus\\app\\Controllers\\admin\\transaksi.php', 182, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\transaksi->selesai('26')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\transaksi))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 09:08:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:08:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:08:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:08:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:08:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:08:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:09:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 09:09:08 --> ErrorException: Undefined property: stdClass::$tanggal_peminjaman
+in APPPATH\Views\pages\backend\detail_histori_transaksi.php on line 53.
+ 1 APPPATH\Views\pages\backend\detail_histori_transaksi.php(53): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$tanggal_peminjaman', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php', 53, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/detail_histori_transaksi', [], true)
+ 5 APPPATH\Controllers\admin\historiTransaksi.php(41): view('pages/backend/detail_histori_transaksi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\HistoriTransaksi->detail('26')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\HistoriTransaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 09:09:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:09:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:09:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:09:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:09:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:09:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:09:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:09:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:10:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 09:10:45 --> ErrorException: Undefined property: stdClass::$denda
+in APPPATH\Views\pages\backend\transaksi\detail.php on line 25.
+ 1 APPPATH\Views\pages\backend\transaksi\detail.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$denda', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\transaksi\\detail.php', 25, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\transaksi\\detail.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/transaksi/detail', [], true)
+ 5 APPPATH\Controllers\admin\transaksi.php(55): view('pages/backend/transaksi/detail', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\transaksi->detail('34')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 09:12:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-05 09:12:28 --> mysqli_sql_exception: Unknown column 'tbl_anggota.id_denda' in 'on clause' in C:\xampp\htdocs\si-perpus\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\si-perpus\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `tbl_tra...', 0)
+#1 C:\xampp\htdocs\si-perpus\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `tbl_tra...')
+#2 C:\xampp\htdocs\si-perpus\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `tbl_tra...')
+#3 C:\xampp\htdocs\si-perpus\system\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `tbl_tra...', Array, false)
+#4 C:\xampp\htdocs\si-perpus\app\Models\transaksiModels.php(49): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\si-perpus\app\Controllers\admin\transaksi.php(45): App\Models\transaksiModels->getTransaksiWithDetails('34')
+#6 C:\xampp\htdocs\si-perpus\system\CodeIgniter.php(941): App\Controllers\admin\transaksi->detail('34')
+#7 C:\xampp\htdocs\si-perpus\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\transaksi))
+#8 C:\xampp\htdocs\si-perpus\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\si-perpus\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-06-05 09:12:28 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'tbl_anggota.id_denda' in 'on clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `tbl_transaksi`.*, `tbl_anggota`.`nama_anggota`, `tbl_denda`.`denda`
+FROM `tbl_transaksi`
+JOIN `tbl_anggota` ON `tbl_anggota`.`id_anggota` = `tbl_transaksi`.`id_anggota`
+JOIN `tbl_denda` ON `tbl_anggota`.`id_denda` = `tbl_transaksi`.`id_denda`
+WHERE `tbl_transaksi`.`id_transaksi` = :tbl_transaksi.id_transaksi:
+GROUP BY `tbl_transaksi`.`id_transaksi`', [...], false)
+ 2 APPPATH\Models\transaksiModels.php(49): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\admin\transaksi.php(45): App\Models\transaksiModels->getTransaksiWithDetails('34')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\transaksi->detail('34')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\transaksi))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-05 09:12:28 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'tbl_anggota.id_denda' in 'on clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `tbl_transaksi`.*, `tbl_anggota`.`nama_anggota`, `tbl_denda`.`denda`
+FROM `tbl_transaksi`
+JOIN `tbl_anggota` ON `tbl_anggota`.`id_anggota` = `tbl_transaksi`.`id_anggota`
+JOIN `tbl_denda` ON `tbl_anggota`.`id_denda` = `tbl_transaksi`.`id_denda`
+WHERE `tbl_transaksi`.`id_transaksi` = \'34\'
+GROUP BY `tbl_transaksi`.`id_transaksi`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `tbl_transaksi`.*, `tbl_anggota`.`nama_anggota`, `tbl_denda`.`denda`
+FROM `tbl_transaksi`
+JOIN `tbl_anggota` ON `tbl_anggota`.`id_anggota` = `tbl_transaksi`.`id_anggota`
+JOIN `tbl_denda` ON `tbl_anggota`.`id_denda` = `tbl_transaksi`.`id_denda`
+WHERE `tbl_transaksi`.`id_transaksi` = \'34\'
+GROUP BY `tbl_transaksi`.`id_transaksi`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `tbl_transaksi`.*, `tbl_anggota`.`nama_anggota`, `tbl_denda`.`denda`
+FROM `tbl_transaksi`
+JOIN `tbl_anggota` ON `tbl_anggota`.`id_anggota` = `tbl_transaksi`.`id_anggota`
+JOIN `tbl_denda` ON `tbl_anggota`.`id_denda` = `tbl_transaksi`.`id_denda`
+WHERE `tbl_transaksi`.`id_transaksi` = :tbl_transaksi.id_transaksi:
+GROUP BY `tbl_transaksi`.`id_transaksi`', [...], false)
+ 4 APPPATH\Models\transaksiModels.php(49): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\admin\transaksi.php(45): App\Models\transaksiModels->getTransaksiWithDetails('34')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\transaksi->detail('34')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-05 09:12:28 --> [Caused by] mysqli_sql_exception: Unknown column 'tbl_anggota.id_denda' in 'on clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `tbl_transaksi`.*, `tbl_anggota`.`nama_anggota`, `tbl_denda`.`denda`
+FROM `tbl_transaksi`
+JOIN `tbl_anggota` ON `tbl_anggota`.`id_anggota` = `tbl_transaksi`.`id_anggota`
+JOIN `tbl_denda` ON `tbl_anggota`.`id_denda` = `tbl_transaksi`.`id_denda`
+WHERE `tbl_transaksi`.`id_transaksi` = \'34\'
+GROUP BY `tbl_transaksi`.`id_transaksi`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `tbl_transaksi`.*, `tbl_anggota`.`nama_anggota`, `tbl_denda`.`denda`
+FROM `tbl_transaksi`
+JOIN `tbl_anggota` ON `tbl_anggota`.`id_anggota` = `tbl_transaksi`.`id_anggota`
+JOIN `tbl_denda` ON `tbl_anggota`.`id_denda` = `tbl_transaksi`.`id_denda`
+WHERE `tbl_transaksi`.`id_transaksi` = \'34\'
+GROUP BY `tbl_transaksi`.`id_transaksi`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `tbl_transaksi`.*, `tbl_anggota`.`nama_anggota`, `tbl_denda`.`denda`
+FROM `tbl_transaksi`
+JOIN `tbl_anggota` ON `tbl_anggota`.`id_anggota` = `tbl_transaksi`.`id_anggota`
+JOIN `tbl_denda` ON `tbl_anggota`.`id_denda` = `tbl_transaksi`.`id_denda`
+WHERE `tbl_transaksi`.`id_transaksi` = \'34\'
+GROUP BY `tbl_transaksi`.`id_transaksi`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `tbl_transaksi`.*, `tbl_anggota`.`nama_anggota`, `tbl_denda`.`denda`
+FROM `tbl_transaksi`
+JOIN `tbl_anggota` ON `tbl_anggota`.`id_anggota` = `tbl_transaksi`.`id_anggota`
+JOIN `tbl_denda` ON `tbl_anggota`.`id_denda` = `tbl_transaksi`.`id_denda`
+WHERE `tbl_transaksi`.`id_transaksi` = :tbl_transaksi.id_transaksi:
+GROUP BY `tbl_transaksi`.`id_transaksi`', [...], false)
+ 5 APPPATH\Models\transaksiModels.php(49): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\admin\transaksi.php(45): App\Models\transaksiModels->getTransaksiWithDetails('34')
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\transaksi->detail('34')
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\transaksi))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 09:12:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:12:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:12:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:12:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:12:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:12:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:12:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:12:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:12:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:12:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:12:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:13:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:13:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:13:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:13:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:13:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:13:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:13:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:13:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:13:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:13:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:13:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:13:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:13:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:13:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:14:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:14:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:14:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:14:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:14:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:14:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 09:14:36 --> ErrorException: Undefined property: stdClass::$tanggal_peminjaman
+in APPPATH\Views\pages\backend\detail_histori_transaksi.php on line 53.
+ 1 APPPATH\Views\pages\backend\detail_histori_transaksi.php(53): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$tanggal_peminjaman', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php', 53, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\detail_histori_transaksi.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/detail_histori_transaksi', [], true)
+ 5 APPPATH\Controllers\admin\historiTransaksi.php(41): view('pages/backend/detail_histori_transaksi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\HistoriTransaksi->detail('27')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\HistoriTransaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 09:15:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-05 09:15:22 --> mysqli_sql_exception: Unknown table 'perpustakaan.tbl_histori_transaksi' in C:\xampp\htdocs\si-perpus\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\si-perpus\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `tbl_his...', 0)
+#1 C:\xampp\htdocs\si-perpus\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `tbl_his...')
+#2 C:\xampp\htdocs\si-perpus\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `tbl_his...')
+#3 C:\xampp\htdocs\si-perpus\system\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `tbl_his...', Array, false)
+#4 C:\xampp\htdocs\si-perpus\app\Models\historiDetailTransaksiModels.php(19): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\si-perpus\app\Controllers\admin\historiTransaksi.php(28): App\Models\HistoriDetailTransaksiModels->getDetailByHistoriTransaksi('27')
+#6 C:\xampp\htdocs\si-perpus\system\CodeIgniter.php(941): App\Controllers\admin\HistoriTransaksi->detail('27')
+#7 C:\xampp\htdocs\si-perpus\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\HistoriTransaksi))
+#8 C:\xampp\htdocs\si-perpus\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\si-perpus\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-06-05 09:15:22 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown table 'perpustakaan.tbl_histori_transaksi'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `tbl_histori_detail_transaksi`.*, `tbl_histori_transaksi`.*, `tbl_buku`.`judul`
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `tbl_histori_detail_transaksi`.`id_histori_transaksi` = :tbl_histori_detail_transaksi.id_histori_transaksi:', [...], false)
+ 2 APPPATH\Models\historiDetailTransaksiModels.php(19): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\admin\historiTransaksi.php(28): App\Models\HistoriDetailTransaksiModels->getDetailByHistoriTransaksi('27')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\HistoriTransaksi->detail('27')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\HistoriTransaksi))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-05 09:15:22 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown table 'perpustakaan.tbl_histori_transaksi'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `tbl_histori_detail_transaksi`.*, `tbl_histori_transaksi`.*, `tbl_buku`.`judul`
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `tbl_histori_detail_transaksi`.`id_histori_transaksi` = \'27\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `tbl_histori_detail_transaksi`.*, `tbl_histori_transaksi`.*, `tbl_buku`.`judul`
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `tbl_histori_detail_transaksi`.`id_histori_transaksi` = \'27\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `tbl_histori_detail_transaksi`.*, `tbl_histori_transaksi`.*, `tbl_buku`.`judul`
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `tbl_histori_detail_transaksi`.`id_histori_transaksi` = :tbl_histori_detail_transaksi.id_histori_transaksi:', [...], false)
+ 4 APPPATH\Models\historiDetailTransaksiModels.php(19): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\admin\historiTransaksi.php(28): App\Models\HistoriDetailTransaksiModels->getDetailByHistoriTransaksi('27')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\HistoriTransaksi->detail('27')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\HistoriTransaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-05 09:15:22 --> [Caused by] mysqli_sql_exception: Unknown table 'perpustakaan.tbl_histori_transaksi'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `tbl_histori_detail_transaksi`.*, `tbl_histori_transaksi`.*, `tbl_buku`.`judul`
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `tbl_histori_detail_transaksi`.`id_histori_transaksi` = \'27\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `tbl_histori_detail_transaksi`.*, `tbl_histori_transaksi`.*, `tbl_buku`.`judul`
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `tbl_histori_detail_transaksi`.`id_histori_transaksi` = \'27\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `tbl_histori_detail_transaksi`.*, `tbl_histori_transaksi`.*, `tbl_buku`.`judul`
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `tbl_histori_detail_transaksi`.`id_histori_transaksi` = \'27\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `tbl_histori_detail_transaksi`.*, `tbl_histori_transaksi`.*, `tbl_buku`.`judul`
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `tbl_histori_detail_transaksi`.`id_histori_transaksi` = :tbl_histori_detail_transaksi.id_histori_transaksi:', [...], false)
+ 5 APPPATH\Models\historiDetailTransaksiModels.php(19): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\admin\historiTransaksi.php(28): App\Models\HistoriDetailTransaksiModels->getDetailByHistoriTransaksi('27')
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\HistoriTransaksi->detail('27')
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\HistoriTransaksi))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 09:16:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-05 09:16:05 --> mysqli_sql_exception: Unknown column 'tbl_histori_transaksi.tanggal_peminjaman' in 'field list' in C:\xampp\htdocs\si-perpus\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\si-perpus\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `tbl_his...', 0)
+#1 C:\xampp\htdocs\si-perpus\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `tbl_his...')
+#2 C:\xampp\htdocs\si-perpus\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `tbl_his...')
+#3 C:\xampp\htdocs\si-perpus\system\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `tbl_his...', Array, false)
+#4 C:\xampp\htdocs\si-perpus\app\Models\historiDetailTransaksiModels.php(19): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\si-perpus\app\Controllers\admin\historiTransaksi.php(28): App\Models\HistoriDetailTransaksiModels->getDetailByHistoriTransaksi('27')
+#6 C:\xampp\htdocs\si-perpus\system\CodeIgniter.php(941): App\Controllers\admin\HistoriTransaksi->detail('27')
+#7 C:\xampp\htdocs\si-perpus\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\HistoriTransaksi))
+#8 C:\xampp\htdocs\si-perpus\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\si-perpus\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-06-05 09:16:05 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'tbl_histori_transaksi.tanggal_peminjaman' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `tbl_histori_detail_transaksi`.*, `tbl_histori_transaksi`.`tanggal_peminjaman`, `tbl_buku`.`judul`
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `tbl_histori_detail_transaksi`.`id_histori_transaksi` = :tbl_histori_detail_transaksi.id_histori_transaksi:', [...], false)
+ 2 APPPATH\Models\historiDetailTransaksiModels.php(19): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\admin\historiTransaksi.php(28): App\Models\HistoriDetailTransaksiModels->getDetailByHistoriTransaksi('27')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\HistoriTransaksi->detail('27')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\HistoriTransaksi))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-05 09:16:05 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'tbl_histori_transaksi.tanggal_peminjaman' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `tbl_histori_detail_transaksi`.*, `tbl_histori_transaksi`.`tanggal_peminjaman`, `tbl_buku`.`judul`
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `tbl_histori_detail_transaksi`.`id_histori_transaksi` = \'27\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `tbl_histori_detail_transaksi`.*, `tbl_histori_transaksi`.`tanggal_peminjaman`, `tbl_buku`.`judul`
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `tbl_histori_detail_transaksi`.`id_histori_transaksi` = \'27\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `tbl_histori_detail_transaksi`.*, `tbl_histori_transaksi`.`tanggal_peminjaman`, `tbl_buku`.`judul`
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `tbl_histori_detail_transaksi`.`id_histori_transaksi` = :tbl_histori_detail_transaksi.id_histori_transaksi:', [...], false)
+ 4 APPPATH\Models\historiDetailTransaksiModels.php(19): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\admin\historiTransaksi.php(28): App\Models\HistoriDetailTransaksiModels->getDetailByHistoriTransaksi('27')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\HistoriTransaksi->detail('27')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\HistoriTransaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-05 09:16:05 --> [Caused by] mysqli_sql_exception: Unknown column 'tbl_histori_transaksi.tanggal_peminjaman' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `tbl_histori_detail_transaksi`.*, `tbl_histori_transaksi`.`tanggal_peminjaman`, `tbl_buku`.`judul`
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `tbl_histori_detail_transaksi`.`id_histori_transaksi` = \'27\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `tbl_histori_detail_transaksi`.*, `tbl_histori_transaksi`.`tanggal_peminjaman`, `tbl_buku`.`judul`
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `tbl_histori_detail_transaksi`.`id_histori_transaksi` = \'27\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `tbl_histori_detail_transaksi`.*, `tbl_histori_transaksi`.`tanggal_peminjaman`, `tbl_buku`.`judul`
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `tbl_histori_detail_transaksi`.`id_histori_transaksi` = \'27\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `tbl_histori_detail_transaksi`.*, `tbl_histori_transaksi`.`tanggal_peminjaman`, `tbl_buku`.`judul`
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `tbl_histori_detail_transaksi`.`id_histori_transaksi` = :tbl_histori_detail_transaksi.id_histori_transaksi:', [...], false)
+ 5 APPPATH\Models\historiDetailTransaksiModels.php(19): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\admin\historiTransaksi.php(28): App\Models\HistoriDetailTransaksiModels->getDetailByHistoriTransaksi('27')
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\HistoriTransaksi->detail('27')
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\HistoriTransaksi))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 09:16:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-05 09:16:48 --> mysqli_sql_exception: Unknown column 'tbl_histori_transaksi.tanggal_peminjaman' in 'field list' in C:\xampp\htdocs\si-perpus\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\si-perpus\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `tbl_his...', 0)
+#1 C:\xampp\htdocs\si-perpus\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `tbl_his...')
+#2 C:\xampp\htdocs\si-perpus\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `tbl_his...')
+#3 C:\xampp\htdocs\si-perpus\system\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `tbl_his...', Array, false)
+#4 C:\xampp\htdocs\si-perpus\app\Models\historiDetailTransaksiModels.php(19): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\si-perpus\app\Controllers\admin\historiTransaksi.php(28): App\Models\HistoriDetailTransaksiModels->getDetailByHistoriTransaksi('27')
+#6 C:\xampp\htdocs\si-perpus\system\CodeIgniter.php(941): App\Controllers\admin\HistoriTransaksi->detail('27')
+#7 C:\xampp\htdocs\si-perpus\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\HistoriTransaksi))
+#8 C:\xampp\htdocs\si-perpus\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\si-perpus\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-06-05 09:16:48 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'tbl_histori_transaksi.tanggal_peminjaman' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `tbl_histori_detail_transaksi`.*, `tbl_histori_transaksi`.`tanggal_peminjaman`, `tbl_buku`.`judul`
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `tbl_histori_detail_transaksi`.`id_histori_transaksi` = :tbl_histori_detail_transaksi.id_histori_transaksi:', [...], false)
+ 2 APPPATH\Models\historiDetailTransaksiModels.php(19): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\admin\historiTransaksi.php(28): App\Models\HistoriDetailTransaksiModels->getDetailByHistoriTransaksi('27')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\HistoriTransaksi->detail('27')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\HistoriTransaksi))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-05 09:16:48 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'tbl_histori_transaksi.tanggal_peminjaman' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `tbl_histori_detail_transaksi`.*, `tbl_histori_transaksi`.`tanggal_peminjaman`, `tbl_buku`.`judul`
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `tbl_histori_detail_transaksi`.`id_histori_transaksi` = \'27\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `tbl_histori_detail_transaksi`.*, `tbl_histori_transaksi`.`tanggal_peminjaman`, `tbl_buku`.`judul`
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `tbl_histori_detail_transaksi`.`id_histori_transaksi` = \'27\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `tbl_histori_detail_transaksi`.*, `tbl_histori_transaksi`.`tanggal_peminjaman`, `tbl_buku`.`judul`
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `tbl_histori_detail_transaksi`.`id_histori_transaksi` = :tbl_histori_detail_transaksi.id_histori_transaksi:', [...], false)
+ 4 APPPATH\Models\historiDetailTransaksiModels.php(19): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\admin\historiTransaksi.php(28): App\Models\HistoriDetailTransaksiModels->getDetailByHistoriTransaksi('27')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\HistoriTransaksi->detail('27')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\HistoriTransaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-05 09:16:48 --> [Caused by] mysqli_sql_exception: Unknown column 'tbl_histori_transaksi.tanggal_peminjaman' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `tbl_histori_detail_transaksi`.*, `tbl_histori_transaksi`.`tanggal_peminjaman`, `tbl_buku`.`judul`
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `tbl_histori_detail_transaksi`.`id_histori_transaksi` = \'27\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `tbl_histori_detail_transaksi`.*, `tbl_histori_transaksi`.`tanggal_peminjaman`, `tbl_buku`.`judul`
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `tbl_histori_detail_transaksi`.`id_histori_transaksi` = \'27\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `tbl_histori_detail_transaksi`.*, `tbl_histori_transaksi`.`tanggal_peminjaman`, `tbl_buku`.`judul`
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `tbl_histori_detail_transaksi`.`id_histori_transaksi` = \'27\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `tbl_histori_detail_transaksi`.*, `tbl_histori_transaksi`.`tanggal_peminjaman`, `tbl_buku`.`judul`
+FROM `tbl_histori_detail_transaksi`
+JOIN `tbl_buku` ON `tbl_buku`.`id_buku` = `tbl_histori_detail_transaksi`.`id_buku`
+WHERE `tbl_histori_detail_transaksi`.`id_histori_transaksi` = :tbl_histori_detail_transaksi.id_histori_transaksi:', [...], false)
+ 5 APPPATH\Models\historiDetailTransaksiModels.php(19): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\admin\historiTransaksi.php(28): App\Models\HistoriDetailTransaksiModels->getDetailByHistoriTransaksi('27')
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\HistoriTransaksi->detail('27')
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\HistoriTransaksi))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 09:20:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:20:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:20:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:21:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:21:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:21:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:22:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:22:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:22:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:22:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:22:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:22:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:22:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:22:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:22:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:22:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:22:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:22:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:22:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:22:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:22:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:22:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:23:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:23:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:23:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:23:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:23:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:23:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:23:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:23:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:23:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:23:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:23:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:23:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:23:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:23:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:23:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:23:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:23:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:23:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:23:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:23:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:23:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:23:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:23:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:23:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:23:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:23:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:23:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:23:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:23:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:25:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:25:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:27:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:27:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:27:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:27:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:27:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:27:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:27:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:27:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:27:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:27:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:29:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:29:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:29:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:29:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:29:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:29:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:29:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:29:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:29:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:29:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:30:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:30:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:30:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:30:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:30:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:30:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:30:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:30:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:30:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:30:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:30:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:30:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:30:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:30:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:30:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:30:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:31:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:31:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:31:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:31:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:32:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:32:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:32:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:32:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:32:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:32:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:32:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:32:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:32:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:44:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:44:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:44:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:44:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:44:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:44:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:44:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:44:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:44:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:45:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:45:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 09:45:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 10:11:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 10:11:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 10:11:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 10:11:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 10:11:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 10:11:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 10:12:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 10:12:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 10:12:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 10:12:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 10:12:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 10:12:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 10:12:49 --> ErrorException: Undefined variable: trans
+in APPPATH\Views\pages\backend\transaksi\detail.php on line 11.
+ 1 APPPATH\Views\pages\backend\transaksi\detail.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: trans', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\transaksi\\detail.php', 11, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\transaksi\\detail.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/transaksi/detail', [], true)
+ 5 APPPATH\Controllers\admin\transaksi.php(55): view('pages/backend/transaksi/detail', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\transaksi->detail('37')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 10:13:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-05 10:13:17 --> Error: Cannot use object of type stdClass as array
+in APPPATH\Views\pages\backend\transaksi\detail.php on line 11.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/transaksi/detail', [], true)
+ 4 APPPATH\Controllers\admin\transaksi.php(55): view('pages/backend/transaksi/detail', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\transaksi->detail('37')
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\transaksi))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-05 10:13:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 10:13:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 10:13:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 10:14:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-05 10:14:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

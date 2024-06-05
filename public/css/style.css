@@ -1,0 +1,49 @@
+.card{
+  height: 300px;;
+  weight: 300px;       
+}
+
+.search-card {
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 10px;
+  }
+
+footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 20px 0;
+  }
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .book-card {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.book-cover {
+    width: 150px;
+    height: auto;
+}
+
+.book-details {
+    margin-left: 20px;
+}
+
+.book-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.book-description {
+    font-size: 1rem;
+}
+
+.navbar .login-btn {
+  margin-right: 10px;
+}

@@ -1,0 +1,51 @@
+CRITICAL - 2024-04-19 02:39:36 --> ErrorException: Undefined variable: buku
+in APPPATH\Views\pages\backend\home.php on line 22.
+ 1 APPPATH\Views\pages\backend\home.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: buku', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\home.php', 22, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\home.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/home', [], true)
+ 5 APPPATH\Controllers\admin\Home.php(24): view('pages/backend/home', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 02:40:26 --> ErrorException: Undefined variable: buku
+in APPPATH\Views\pages\backend\home.php on line 22.
+ 1 APPPATH\Views\pages\backend\home.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: buku', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\home.php', 22, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\home.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/home', [], true)
+ 5 APPPATH\Controllers\admin\Home.php(24): view('pages/backend/home', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 02:44:06 --> ErrorException: Undefined variable: transaksi
+in APPPATH\Views\pages\backend\transaksi.php on line 31.
+ 1 APPPATH\Views\pages\backend\transaksi.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: transaksi', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\transaksi.php', 31, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\transaksi.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/transaksi', [], true)
+ 5 APPPATH\Controllers\admin\transaksi.php(33): view('pages/backend/transaksi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\transaksi->tambah()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 11:29:32 --> ParseError: syntax error, unexpected ' ' (T_STRING), expecting ';' or ','
+in APPPATH\Views\pages\backend\kategori.php on line 48.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/kategori', [], true)
+ 3 APPPATH\Controllers\admin\kategori.php(22): view('pages/backend/kategori', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\kategori->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\kategori))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-19 11:30:18 --> ParseError: syntax error, unexpected ' ' (T_STRING), expecting ';' or ','
+in APPPATH\Views\pages\backend\rak.php on line 48.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/rak', [], true)
+ 3 APPPATH\Controllers\admin\rak.php(22): view('pages/backend/rak', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\rak->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\rak))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

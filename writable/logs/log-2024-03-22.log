@@ -1,0 +1,533 @@
+<<<<<<< HEAD
+CRITICAL - 2024-03-22 13:39:39 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\pages\backend\buku\edit.php on line 7.
+ 1 APPPATH\Views\pages\backend\buku\edit.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\buku\\edit.php', 7, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\buku\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/buku/edit', [], true)
+ 5 APPPATH\Controllers\admin\Buku.php(96): view('pages/backend/buku/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\Buku->edit('img', 'undraw_profile.svg')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Buku))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-22 13:39:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-22 13:39:46 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\pages\backend\buku\edit.php on line 7.
+ 1 APPPATH\Views\pages\backend\buku\edit.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\buku\\edit.php', 7, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\buku\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/buku/edit', [], true)
+ 5 APPPATH\Controllers\admin\Buku.php(96): view('pages/backend/buku/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\Buku->edit('img', 'undraw_profile.svg')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Buku))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 13:42:14 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\pages\backend\petugas\edit.php on line 7.
+ 1 APPPATH\Views\pages\backend\petugas\edit.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\petugas\\edit.php', 7, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\petugas\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/petugas/edit', [], true)
+ 5 APPPATH\Controllers\admin\petugas.php(93): view('pages/backend/petugas/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\petugas->edit('img', 'undraw_profile.svg')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\petugas))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 13:45:49 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\pages\backend\buku\edit.php on line 7.
+ 1 APPPATH\Views\pages\backend\buku\edit.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\buku\\edit.php', 7, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\buku\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/buku/edit', [], true)
+ 5 APPPATH\Controllers\admin\Buku.php(96): view('pages/backend/buku/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\Buku->edit('img', 'undraw_profile.svg')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Buku))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 13:45:54 --> ErrorException: Undefined index: cover
+in APPPATH\Controllers\admin\Buku.php on line 133.
+ 1 APPPATH\Controllers\admin\Buku.php(133): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: cover', 'C:\\xampp\\htdocs\\si-perpus\\app\\Controllers\\admin\\Buku.php', 133, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\Buku->update()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 13:46:10 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\pages\backend\buku\edit.php on line 7.
+ 1 APPPATH\Views\pages\backend\buku\edit.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\buku\\edit.php', 7, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\buku\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/buku/edit', [], true)
+ 5 APPPATH\Controllers\admin\Buku.php(96): view('pages/backend/buku/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\Buku->edit('img', 'undraw_profile.svg')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Buku))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 13:46:15 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\pages\backend\buku\edit.php on line 7.
+ 1 APPPATH\Views\pages\backend\buku\edit.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\buku\\edit.php', 7, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\buku\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/buku/edit', [], true)
+ 5 APPPATH\Controllers\admin\Buku.php(96): view('pages/backend/buku/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\Buku->edit('img', 'undraw_profile.svg')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Buku))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 13:46:42 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\pages\backend\buku\edit.php on line 7.
+ 1 APPPATH\Views\pages\backend\buku\edit.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\buku\\edit.php', 7, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\buku\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/buku/edit', [], true)
+ 5 APPPATH\Controllers\admin\Buku.php(96): view('pages/backend/buku/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\Buku->edit('img', 'undraw_profile.svg')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Buku))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 13:48:58 --> ErrorException: Undefined variable: key
+in APPPATH\Views\pages\backend\buku.php on line 66.
+ 1 APPPATH\Views\pages\backend\buku.php(66): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: key', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\buku.php', 66, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\buku.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/buku', [], true)
+ 5 APPPATH\Controllers\admin\Buku.php(24): view('pages/backend/buku', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\Buku->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Buku))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 13:49:07 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\pages\backend\buku\edit.php on line 7.
+ 1 APPPATH\Views\pages\backend\buku\edit.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\buku\\edit.php', 7, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\buku\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/buku/edit', [], true)
+ 5 APPPATH\Controllers\admin\Buku.php(96): view('pages/backend/buku/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\Buku->edit('13')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Buku))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 13:49:18 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\pages\backend\buku\edit.php on line 7.
+ 1 APPPATH\Views\pages\backend\buku\edit.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\buku\\edit.php', 7, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\buku\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/buku/edit', [], true)
+ 5 APPPATH\Controllers\admin\Buku.php(96): view('pages/backend/buku/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\Buku->edit('13')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Buku))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 13:49:21 --> ErrorException: Undefined index: id_buku
+in APPPATH\Views\pages\backend\buku.php on line 66.
+ 1 APPPATH\Views\pages\backend\buku.php(66): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: id_buku', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\buku.php', 66, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\buku.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/buku', [], true)
+ 5 APPPATH\Controllers\admin\Buku.php(24): view('pages/backend/buku', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\Buku->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Buku))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 13:49:22 --> ErrorException: Undefined index: id_buku
+in APPPATH\Views\pages\backend\buku.php on line 66.
+ 1 APPPATH\Views\pages\backend\buku.php(66): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: id_buku', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\buku.php', 66, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\buku.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/buku', [], true)
+ 5 APPPATH\Controllers\admin\Buku.php(24): view('pages/backend/buku', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\Buku->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Buku))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 13:50:12 --> ErrorException: Undefined variable: key
+in APPPATH\Views\pages\backend\buku.php on line 66.
+ 1 APPPATH\Views\pages\backend\buku.php(66): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: key', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\buku.php', 66, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\buku.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/buku', [], true)
+ 5 APPPATH\Controllers\admin\Buku.php(24): view('pages/backend/buku', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\Buku->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Buku))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 13:51:08 --> ErrorException: Undefined index: id_buku
+in APPPATH\Views\pages\backend\buku.php on line 66.
+ 1 APPPATH\Views\pages\backend\buku.php(66): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: id_buku', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\buku.php', 66, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\buku.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/buku', [], true)
+ 5 APPPATH\Controllers\admin\Buku.php(24): view('pages/backend/buku', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\Buku->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Buku))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 13:51:34 --> ErrorException: Undefined variable: key
+in APPPATH\Views\pages\backend\buku.php on line 66.
+ 1 APPPATH\Views\pages\backend\buku.php(66): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: key', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\buku.php', 66, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\buku.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/buku', [], true)
+ 5 APPPATH\Controllers\admin\Buku.php(24): view('pages/backend/buku', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\Buku->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Buku))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+=======
+ERROR - 2024-03-22 12:20:53 --> mysqli_sql_exception: Table 'perpus-coba.tbl_buku' doesn't exist in C:\xampp\htdocs\si-perpus-coba\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\si-perpus-coba\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\si-perpus-coba\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\si-perpus-coba\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\si-perpus-coba\system\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\si-perpus-coba\system\Model.php(202): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\si-perpus-coba\system\BaseModel.php(577): CodeIgniter\Model->doFind(false, NULL)
+#6 C:\xampp\htdocs\si-perpus-coba\app\Controllers\Home.php(16): CodeIgniter\BaseModel->find()
+#7 C:\xampp\htdocs\si-perpus-coba\system\CodeIgniter.php(941): App\Controllers\Home->index()
+#8 C:\xampp\htdocs\si-perpus-coba\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\xampp\htdocs\si-perpus-coba\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\si-perpus-coba\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-03-22 12:20:53 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'perpus-coba.tbl_buku' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_buku`
+ORDER BY `tanggal_input_buku` DESC
+ LIMIT 4', [], false)
+ 2 SYSTEMPATH\Model.php(202): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(577): CodeIgniter\Model->doFind(false, null)
+ 4 APPPATH\Controllers\Home.php(16): CodeIgniter\BaseModel->find()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 12:20:53 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'perpus-coba.tbl_buku' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `tbl_buku`
+ORDER BY `tanggal_input_buku` DESC
+ LIMIT 4')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `tbl_buku`
+ORDER BY `tanggal_input_buku` DESC
+ LIMIT 4')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_buku`
+ORDER BY `tanggal_input_buku` DESC
+ LIMIT 4', [], false)
+ 4 SYSTEMPATH\Model.php(202): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(577): CodeIgniter\Model->doFind(false, null)
+ 6 APPPATH\Controllers\Home.php(16): CodeIgniter\BaseModel->find()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 12:20:53 --> [Caused by] mysqli_sql_exception: Table 'perpus-coba.tbl_buku' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *
+FROM `tbl_buku`
+ORDER BY `tanggal_input_buku` DESC
+ LIMIT 4', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `tbl_buku`
+ORDER BY `tanggal_input_buku` DESC
+ LIMIT 4')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `tbl_buku`
+ORDER BY `tanggal_input_buku` DESC
+ LIMIT 4')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_buku`
+ORDER BY `tanggal_input_buku` DESC
+ LIMIT 4', [], false)
+ 5 SYSTEMPATH\Model.php(202): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(577): CodeIgniter\Model->doFind(false, null)
+ 7 APPPATH\Controllers\Home.php(16): CodeIgniter\BaseModel->find()
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-03-22 12:21:28 --> mysqli_sql_exception: Unknown column 'tanggal_input_buku' in 'order clause' in C:\xampp\htdocs\si-perpus-coba\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\si-perpus-coba\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\si-perpus-coba\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\si-perpus-coba\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\si-perpus-coba\system\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\si-perpus-coba\system\Model.php(202): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\si-perpus-coba\system\BaseModel.php(577): CodeIgniter\Model->doFind(false, NULL)
+#6 C:\xampp\htdocs\si-perpus-coba\app\Controllers\Home.php(16): CodeIgniter\BaseModel->find()
+#7 C:\xampp\htdocs\si-perpus-coba\system\CodeIgniter.php(941): App\Controllers\Home->index()
+#8 C:\xampp\htdocs\si-perpus-coba\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\xampp\htdocs\si-perpus-coba\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\si-perpus-coba\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-03-22 12:21:28 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'tanggal_input_buku' in 'order clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_buku`
+ORDER BY `tanggal_input_buku` DESC
+ LIMIT 4', [], false)
+ 2 SYSTEMPATH\Model.php(202): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(577): CodeIgniter\Model->doFind(false, null)
+ 4 APPPATH\Controllers\Home.php(16): CodeIgniter\BaseModel->find()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 12:21:28 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'tanggal_input_buku' in 'order clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `tbl_buku`
+ORDER BY `tanggal_input_buku` DESC
+ LIMIT 4')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `tbl_buku`
+ORDER BY `tanggal_input_buku` DESC
+ LIMIT 4')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_buku`
+ORDER BY `tanggal_input_buku` DESC
+ LIMIT 4', [], false)
+ 4 SYSTEMPATH\Model.php(202): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(577): CodeIgniter\Model->doFind(false, null)
+ 6 APPPATH\Controllers\Home.php(16): CodeIgniter\BaseModel->find()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 12:21:28 --> [Caused by] mysqli_sql_exception: Unknown column 'tanggal_input_buku' in 'order clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *
+FROM `tbl_buku`
+ORDER BY `tanggal_input_buku` DESC
+ LIMIT 4', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `tbl_buku`
+ORDER BY `tanggal_input_buku` DESC
+ LIMIT 4')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `tbl_buku`
+ORDER BY `tanggal_input_buku` DESC
+ LIMIT 4')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_buku`
+ORDER BY `tanggal_input_buku` DESC
+ LIMIT 4', [], false)
+ 5 SYSTEMPATH\Model.php(202): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(577): CodeIgniter\Model->doFind(false, null)
+ 7 APPPATH\Controllers\Home.php(16): CodeIgniter\BaseModel->find()
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 12:22:00 --> Error: Class 'App\Models\bukuModels' not found
+in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-03-22 12:23:03 --> mysqli_sql_exception: Table 'perpus-coba.tbl_denda' doesn't exist in C:\xampp\htdocs\si-perpus-coba\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\si-perpus-coba\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\si-perpus-coba\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\si-perpus-coba\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\si-perpus-coba\system\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\si-perpus-coba\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\si-perpus-coba\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\si-perpus-coba\app\Controllers\admin\denda.php(17): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\si-perpus-coba\system\CodeIgniter.php(941): App\Controllers\admin\denda->index()
+#8 C:\xampp\htdocs\si-perpus-coba\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\denda))
+#9 C:\xampp\htdocs\si-perpus-coba\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\si-perpus-coba\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-03-22 12:23:03 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'perpus-coba.tbl_denda' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_denda`', [], false)
+ 2 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\admin\denda.php(17): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\denda->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\denda))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 12:23:03 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'perpus-coba.tbl_denda' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `tbl_denda`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `tbl_denda`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_denda`', [], false)
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\admin\denda.php(17): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\denda->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\denda))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 12:23:03 --> [Caused by] mysqli_sql_exception: Table 'perpus-coba.tbl_denda' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *
+FROM `tbl_denda`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `tbl_denda`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `tbl_denda`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_denda`', [], false)
+ 5 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\admin\denda.php(17): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\denda->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\denda))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-03-22 12:23:06 --> mysqli_sql_exception: Table 'perpus-coba.tbl_petugas' doesn't exist in C:\xampp\htdocs\si-perpus-coba\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\si-perpus-coba\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\si-perpus-coba\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\si-perpus-coba\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\si-perpus-coba\system\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\si-perpus-coba\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\si-perpus-coba\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\si-perpus-coba\app\Controllers\admin\petugas.php(19): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\si-perpus-coba\system\CodeIgniter.php(941): App\Controllers\admin\petugas->index()
+#8 C:\xampp\htdocs\si-perpus-coba\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\petugas))
+#9 C:\xampp\htdocs\si-perpus-coba\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\si-perpus-coba\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-03-22 12:23:06 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'perpus-coba.tbl_petugas' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_petugas`', [], false)
+ 2 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\admin\petugas.php(19): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\petugas->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\petugas))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 12:23:06 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'perpus-coba.tbl_petugas' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `tbl_petugas`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `tbl_petugas`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_petugas`', [], false)
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\admin\petugas.php(19): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\petugas->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\petugas))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 12:23:06 --> [Caused by] mysqli_sql_exception: Table 'perpus-coba.tbl_petugas' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *
+FROM `tbl_petugas`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `tbl_petugas`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `tbl_petugas`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_petugas`', [], false)
+ 5 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\admin\petugas.php(19): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\petugas->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\petugas))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+>>>>>>> ae1fbb8e02defcd8b34eba586ccaf5f0e8a2faf6
+CRITICAL - 2024-03-22 14:45:31 --> ErrorException: Undefined variable: key
+in APPPATH\Views\pages\backend\buku.php on line 66.
+ 1 APPPATH\Views\pages\backend\buku.php(66): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: key', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\buku.php', 66, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\buku.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/buku', [], true)
+ 5 APPPATH\Controllers\admin\Buku.php(24): view('pages/backend/buku', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\Buku->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Buku))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 14:50:18 --> ParseError: syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+in APPPATH\Controllers\admin\Buku.php on line 16.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/buku', 'get')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/buku')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/buku')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-03-22 14:50:32 --> mysqli_sql_exception: Unknown column 'tbl_buku.umlah_salinan_tersedia' in 'field list' in C:\xampp\htdocs\si-perpus\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\si-perpus\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `tbl_buk...', 0)
+#1 C:\xampp\htdocs\si-perpus\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `tbl_buk...')
+#2 C:\xampp\htdocs\si-perpus\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `tbl_buk...')
+#3 C:\xampp\htdocs\si-perpus\system\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `tbl_buk...', Array, false)
+#4 C:\xampp\htdocs\si-perpus\app\Models\bukuModels.php(19): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\si-perpus\app\Controllers\admin\Buku.php(16): App\Models\bukuModels->getBooksInfo()
+#6 C:\xampp\htdocs\si-perpus\system\CodeIgniter.php(913): App\Controllers\admin\Buku->__construct()
+#7 C:\xampp\htdocs\si-perpus\system\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+#8 C:\xampp\htdocs\si-perpus\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\si-perpus\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-03-22 14:50:32 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'tbl_buku.umlah_salinan_tersedia' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `tbl_buku`.`id_buku`, `tbl_buku`.`cover_buku`, `tbl_buku`.`judul`, `tbl_buku`.`pengarang`, `tbl_buku`.`penerbit`, `tbl_buku`.`tahun_terbit`, `tbl_buku`.`ringkasan_buku`, `tbl_buku`.`umlah_salinan_tersedia`, `tbl_kategori`.`nama_kategori`
+FROM `tbl_buku`
+JOIN `tbl_kategori` ON `tbl_kategori`.`id_kategori` = `tbl_buku`.`id_kategori`', [], false)
+ 2 APPPATH\Models\bukuModels.php(19): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\admin\Buku.php(16): App\Models\bukuModels->getBooksInfo()
+ 4 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\admin\Buku->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 14:50:32 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'tbl_buku.umlah_salinan_tersedia' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `tbl_buku`.`id_buku`, `tbl_buku`.`cover_buku`, `tbl_buku`.`judul`, `tbl_buku`.`pengarang`, `tbl_buku`.`penerbit`, `tbl_buku`.`tahun_terbit`, `tbl_buku`.`ringkasan_buku`, `tbl_buku`.`umlah_salinan_tersedia`, `tbl_kategori`.`nama_kategori`
+FROM `tbl_buku`
+JOIN `tbl_kategori` ON `tbl_kategori`.`id_kategori` = `tbl_buku`.`id_kategori`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `tbl_buku`.`id_buku`, `tbl_buku`.`cover_buku`, `tbl_buku`.`judul`, `tbl_buku`.`pengarang`, `tbl_buku`.`penerbit`, `tbl_buku`.`tahun_terbit`, `tbl_buku`.`ringkasan_buku`, `tbl_buku`.`umlah_salinan_tersedia`, `tbl_kategori`.`nama_kategori`
+FROM `tbl_buku`
+JOIN `tbl_kategori` ON `tbl_kategori`.`id_kategori` = `tbl_buku`.`id_kategori`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `tbl_buku`.`id_buku`, `tbl_buku`.`cover_buku`, `tbl_buku`.`judul`, `tbl_buku`.`pengarang`, `tbl_buku`.`penerbit`, `tbl_buku`.`tahun_terbit`, `tbl_buku`.`ringkasan_buku`, `tbl_buku`.`umlah_salinan_tersedia`, `tbl_kategori`.`nama_kategori`
+FROM `tbl_buku`
+JOIN `tbl_kategori` ON `tbl_kategori`.`id_kategori` = `tbl_buku`.`id_kategori`', [], false)
+ 4 APPPATH\Models\bukuModels.php(19): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\admin\Buku.php(16): App\Models\bukuModels->getBooksInfo()
+ 6 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\admin\Buku->__construct()
+ 7 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 14:50:32 --> [Caused by] mysqli_sql_exception: Unknown column 'tbl_buku.umlah_salinan_tersedia' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `tbl_buku`.`id_buku`, `tbl_buku`.`cover_buku`, `tbl_buku`.`judul`, `tbl_buku`.`pengarang`, `tbl_buku`.`penerbit`, `tbl_buku`.`tahun_terbit`, `tbl_buku`.`ringkasan_buku`, `tbl_buku`.`umlah_salinan_tersedia`, `tbl_kategori`.`nama_kategori`
+FROM `tbl_buku`
+JOIN `tbl_kategori` ON `tbl_kategori`.`id_kategori` = `tbl_buku`.`id_kategori`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `tbl_buku`.`id_buku`, `tbl_buku`.`cover_buku`, `tbl_buku`.`judul`, `tbl_buku`.`pengarang`, `tbl_buku`.`penerbit`, `tbl_buku`.`tahun_terbit`, `tbl_buku`.`ringkasan_buku`, `tbl_buku`.`umlah_salinan_tersedia`, `tbl_kategori`.`nama_kategori`
+FROM `tbl_buku`
+JOIN `tbl_kategori` ON `tbl_kategori`.`id_kategori` = `tbl_buku`.`id_kategori`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `tbl_buku`.`id_buku`, `tbl_buku`.`cover_buku`, `tbl_buku`.`judul`, `tbl_buku`.`pengarang`, `tbl_buku`.`penerbit`, `tbl_buku`.`tahun_terbit`, `tbl_buku`.`ringkasan_buku`, `tbl_buku`.`umlah_salinan_tersedia`, `tbl_kategori`.`nama_kategori`
+FROM `tbl_buku`
+JOIN `tbl_kategori` ON `tbl_kategori`.`id_kategori` = `tbl_buku`.`id_kategori`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `tbl_buku`.`id_buku`, `tbl_buku`.`cover_buku`, `tbl_buku`.`judul`, `tbl_buku`.`pengarang`, `tbl_buku`.`penerbit`, `tbl_buku`.`tahun_terbit`, `tbl_buku`.`ringkasan_buku`, `tbl_buku`.`umlah_salinan_tersedia`, `tbl_kategori`.`nama_kategori`
+FROM `tbl_buku`
+JOIN `tbl_kategori` ON `tbl_kategori`.`id_kategori` = `tbl_buku`.`id_kategori`', [], false)
+ 5 APPPATH\Models\bukuModels.php(19): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\admin\Buku.php(16): App\Models\bukuModels->getBooksInfo()
+ 7 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\admin\Buku->__construct()
+ 8 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 14:59:18 --> ErrorException: Undefined index: id_kategori
+in APPPATH\Views\pages\backend\buku.php on line 43.
+ 1 APPPATH\Views\pages\backend\buku.php(43): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: id_kategori', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\buku.php', 43, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\buku.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/buku', [], true)
+ 5 APPPATH\Controllers\admin\Buku.php(29): view('pages/backend/buku', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\Buku->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Buku))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,116 @@
+CRITICAL - 2024-03-16 16:08:37 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/admin/kategori.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/admin/kategori.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/admin/kategori', [], true)
+ 3 APPPATH\Controllers\admin\kategori.php(11): view('pages/admin/kategori')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\kategori->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\kategori))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-16 16:09:34 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/admin/kategori.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/admin/kategori.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/admin/kategori', [], true)
+ 3 APPPATH\Controllers\admin\kategori.php(11): view('pages/admin/kategori')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\kategori->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\kategori))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-16 17:04:28 --> ArgumentCountError: Too few arguments to function App\Controllers\admin\kategori::edit(), 0 passed in C:\xampp\htdocs\si-perpus\system\CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH\Controllers\admin\kategori.php on line 39.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\kategori->edit()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\kategori))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-16 17:05:14 --> ArgumentCountError: Too few arguments to function App\Controllers\admin\kategori::edit(), 0 passed in C:\xampp\htdocs\si-perpus\system\CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH\Controllers\admin\kategori.php on line 39.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\kategori->edit()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\kategori))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-16 17:05:17 --> ArgumentCountError: Too few arguments to function App\Controllers\admin\kategori::edit(), 0 passed in C:\xampp\htdocs\si-perpus\system\CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH\Controllers\admin\kategori.php on line 39.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\kategori->edit()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\kategori))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-16 17:07:02 --> ArgumentCountError: Too few arguments to function App\Controllers\admin\kategori::edit(), 0 passed in C:\xampp\htdocs\si-perpus\system\CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH\Controllers\admin\kategori.php on line 39.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\kategori->edit()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\kategori))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-16 17:12:03 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\pages\backend\kategori\edit.php on line 7.
+ 1 APPPATH\Views\pages\backend\kategori\edit.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\kategori\\edit.php', 7, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\kategori\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/kategori/edit', [], true)
+ 5 APPPATH\Controllers\admin\kategori.php(47): view('pages/backend/kategori/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\kategori->edit('img', 'undraw_profile.svg')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\kategori))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-16 17:12:19 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\pages\backend\kategori\edit.php on line 7.
+ 1 APPPATH\Views\pages\backend\kategori\edit.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\kategori\\edit.php', 7, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\kategori\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/kategori/edit', [], true)
+ 5 APPPATH\Controllers\admin\kategori.php(47): view('pages/backend/kategori/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\kategori->edit('img', 'undraw_profile.svg')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\kategori))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-16 17:14:28 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\pages\backend\kategori\edit.php on line 7.
+ 1 APPPATH\Views\pages\backend\kategori\edit.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\kategori\\edit.php', 7, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\kategori\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/kategori/edit', [], true)
+ 5 APPPATH\Controllers\admin\kategori.php(47): view('pages/backend/kategori/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\kategori->edit('img', 'undraw_profile.svg')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\kategori))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-16 17:14:33 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\pages\backend\kategori\edit.php on line 7.
+ 1 APPPATH\Views\pages\backend\kategori\edit.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\kategori\\edit.php', 7, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\kategori\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/kategori/edit', [], true)
+ 5 APPPATH\Controllers\admin\kategori.php(47): view('pages/backend/kategori/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\kategori->edit('img', 'undraw_profile.svg')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\kategori))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-16 17:29:00 --> ParseError: syntax error, unexpected 'public' (T_PUBLIC)
+in APPPATH\Controllers\admin\Buku.php on line 170.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/buku', 'get')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/buku')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/buku')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-16 17:34:59 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\pages\backend\buku\edit.php on line 7.
+ 1 APPPATH\Views\pages\backend\buku\edit.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\buku\\edit.php', 7, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\buku\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/buku/edit', [], true)
+ 5 APPPATH\Controllers\admin\Buku.php(96): view('pages/backend/buku/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\Buku->edit('img', 'undraw_profile.svg')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Buku))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-16 17:35:43 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\pages\backend\buku\edit.php on line 7.
+ 1 APPPATH\Views\pages\backend\buku\edit.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\buku\\edit.php', 7, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\buku\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/buku/edit', [], true)
+ 5 APPPATH\Controllers\admin\Buku.php(96): view('pages/backend/buku/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\Buku->edit('img', 'undraw_profile.svg')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Buku))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,219 @@
+CRITICAL - 2024-03-19 17:45:03 --> ErrorException: Undefined variable: key
+in APPPATH\Views\pages\backend\kategori.php on line 54.
+ 1 APPPATH\Views\pages\backend\kategori.php(54): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: key', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\kategori.php', 54, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\kategori.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/kategori', [], true)
+ 5 APPPATH\Controllers\admin\kategori.php(22): view('pages/backend/kategori', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\kategori->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\kategori))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-19 17:51:28 --> ErrorException: Undefined variable: no
+in APPPATH\Views\pages\backend\petugas.php on line 29.
+ 1 APPPATH\Views\pages\backend\petugas.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: no', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\petugas.php', 29, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\petugas.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/petugas', [], true)
+ 5 APPPATH\Controllers\admin\petugas.php(11): view('pages/backend/petugas')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\petugas->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\petugas))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-19 18:03:58 --> Error: Call to a member function getFilename() on null
+in APPPATH\Controllers\admin\petugas.php on line 52.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\petugas->simpan()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\petugas))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-19 18:04:52 --> Error: Call to a member function getFilename() on null
+in APPPATH\Controllers\admin\petugas.php on line 52.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\petugas->simpan()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\petugas))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-19 18:06:23 --> Error: Call to a member function getFilename() on null
+in APPPATH\Controllers\admin\petugas.php on line 52.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\petugas->simpan()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\petugas))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-19 18:06:44 --> Error: Call to a member function getFilename() on null
+in APPPATH\Controllers\admin\petugas.php on line 52.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\petugas->simpan()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\petugas))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-19 18:13:44 --> ErrorException: Undefined index: cover_buku
+in APPPATH\Views\pages\backend\petugas.php on line 32.
+ 1 APPPATH\Views\pages\backend\petugas.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: cover_buku', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\petugas.php', 32, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\petugas.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/petugas', [], true)
+ 5 APPPATH\Controllers\admin\petugas.php(24): view('pages/backend/petugas', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\petugas->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\petugas))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-19 19:04:28 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\pages\backend\petugas\edit.php on line 7.
+ 1 APPPATH\Views\pages\backend\petugas\edit.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\petugas\\edit.php', 7, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\petugas\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/petugas/edit', [], true)
+ 5 APPPATH\Controllers\admin\petugas.php(93): view('pages/backend/petugas/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\petugas->edit('img', 'undraw_profile.svg')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\petugas))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-19 19:08:25 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\pages\backend\petugas\edit.php on line 7.
+ 1 APPPATH\Views\pages\backend\petugas\edit.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\petugas\\edit.php', 7, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\petugas\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/petugas/edit', [], true)
+ 5 APPPATH\Controllers\admin\petugas.php(93): view('pages/backend/petugas/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\petugas->edit('img', 'undraw_profile.svg')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\petugas))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-19 19:35:03 --> ErrorException: Undefined variable: kategori
+in APPPATH\Views\pages\backend\denda\edit.php on line 7.
+ 1 APPPATH\Views\pages\backend\denda\edit.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: kategori', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\denda\\edit.php', 7, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\denda\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/denda/edit', [], true)
+ 5 APPPATH\Controllers\admin\denda.php(47): view('pages/backend/denda/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\denda->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\denda))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-19 19:35:27 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\pages\backend\denda\edit.php on line 7.
+ 1 APPPATH\Views\pages\backend\denda\edit.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\denda\\edit.php', 7, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\denda\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/denda/edit', [], true)
+ 5 APPPATH\Controllers\admin\denda.php(47): view('pages/backend/denda/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\denda->edit('img', 'undraw_profile.svg')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\denda))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-19 19:36:18 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\pages\backend\denda\edit.php on line 7.
+ 1 APPPATH\Views\pages\backend\denda\edit.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\denda\\edit.php', 7, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\denda\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/denda/edit', [], true)
+ 5 APPPATH\Controllers\admin\denda.php(47): view('pages/backend/denda/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\denda->edit('img', 'undraw_profile.svg')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\denda))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-19 19:41:48 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\pages\backend\denda\edit.php on line 7.
+ 1 APPPATH\Views\pages\backend\denda\edit.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\denda\\edit.php', 7, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\denda\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/denda/edit', [], true)
+ 5 APPPATH\Controllers\admin\denda.php(47): view('pages/backend/denda/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\denda->edit('img', 'undraw_profile.svg')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\denda))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-19 20:15:10 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\pages\backend\anggota\edit.php on line 7.
+ 1 APPPATH\Views\pages\backend\anggota\edit.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\anggota\\edit.php', 7, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\anggota\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/anggota/edit', [], true)
+ 5 APPPATH\Controllers\admin\anggota.php(94): view('pages/backend/anggota/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\anggota->edit('img', 'undraw_profile.svg')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\anggota))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-19 20:15:14 --> ArgumentCountError: Too few arguments to function App\Controllers\admin\anggota::edit(), 0 passed in C:\xampp\htdocs\si-perpus\system\CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH\Controllers\admin\anggota.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\anggota->edit()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\anggota))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-19 20:19:47 --> ArgumentCountError: Too few arguments to function App\Controllers\admin\anggota::edit(), 0 passed in C:\xampp\htdocs\si-perpus\system\CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH\Controllers\admin\anggota.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\anggota->edit()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\anggota))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-19 20:19:49 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\pages\backend\anggota\edit.php on line 7.
+ 1 APPPATH\Views\pages\backend\anggota\edit.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\anggota\\edit.php', 7, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\anggota\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/anggota/edit', [], true)
+ 5 APPPATH\Controllers\admin\anggota.php(94): view('pages/backend/anggota/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\anggota->edit('img', 'undraw_profile.svg')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\anggota))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-19 20:19:51 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\pages\backend\anggota\edit.php on line 7.
+ 1 APPPATH\Views\pages\backend\anggota\edit.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\anggota\\edit.php', 7, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\anggota\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/anggota/edit', [], true)
+ 5 APPPATH\Controllers\admin\anggota.php(94): view('pages/backend/anggota/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\anggota->edit('img', 'undraw_profile.svg')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\anggota))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-19 20:19:55 --> ArgumentCountError: Too few arguments to function App\Controllers\admin\anggota::edit(), 0 passed in C:\xampp\htdocs\si-perpus\system\CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH\Controllers\admin\anggota.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\anggota->edit()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\anggota))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-19 20:24:06 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\pages\backend\anggota\edit.php on line 7.
+ 1 APPPATH\Views\pages\backend\anggota\edit.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\anggota\\edit.php', 7, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\anggota\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/anggota/edit', [], true)
+ 5 APPPATH\Controllers\admin\anggota.php(94): view('pages/backend/anggota/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\anggota->edit('img', 'undraw_profile.svg')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\anggota))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-19 20:24:17 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\pages\backend\anggota\edit.php on line 7.
+ 1 APPPATH\Views\pages\backend\anggota\edit.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\anggota\\edit.php', 7, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\anggota\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/anggota/edit', [], true)
+ 5 APPPATH\Controllers\admin\anggota.php(94): view('pages/backend/anggota/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\anggota->edit('img', 'undraw_profile.svg')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\anggota))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-19 20:24:23 --> ArgumentCountError: Too few arguments to function App\Controllers\admin\anggota::edit(), 0 passed in C:\xampp\htdocs\si-perpus\system\CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH\Controllers\admin\anggota.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\anggota->edit()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\anggota))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-19 20:25:05 --> ArgumentCountError: Too few arguments to function App\Controllers\admin\anggota::edit(), 0 passed in C:\xampp\htdocs\si-perpus\system\CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH\Controllers\admin\anggota.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\anggota->edit()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\anggota))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-19 20:25:46 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Views\pages\backend\anggota\edit.php on line 7.
+ 1 APPPATH\Views\pages\backend\anggota\edit.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\anggota\\edit.php', 7, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\si-perpus\\app\\Views\\pages\\backend\\anggota\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/backend/anggota/edit', [], true)
+ 5 APPPATH\Controllers\admin\anggota.php(94): view('pages/backend/anggota/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\admin\anggota->edit('img', 'undraw_profile.svg')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\anggota))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
